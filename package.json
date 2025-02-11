@@ -58,7 +58,7 @@
     "typescript-3.6.4": "npm:typescript@3.6.4",
     "typescript-3.7.5": "npm:typescript@3.7.5",
     "typescript-3.8.3": "npm:typescript@3.8.3",
-    "zod": "^1.10.1"
+    "zod": "^3.22.3"
   },
   "devDependencies": {
     "@types/circular-json": "^0.4.0",
@@ -73,7 +73,7 @@
     "@types/react-treeview": "^0.4.2",
     "cross-env": "^7.0.2",
     "dts-minify": "^0.2.0",
-    "gh-pages": "^2.2.0",
+    "gh-pages": "^5.0.0",
     "glob": "^7.1.6",
     "monaco-editor-webpack-plugin": "^1.9.0",
     "react-app-rewired": "^2.1.6",
